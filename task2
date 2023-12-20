@@ -1,0 +1,56 @@
+Define website that have map location ,name , address and phone number , of  Bristol City libraries 
+ You will define the User Experience (UX) mapping, defining a persona and an associated scenario represented as a design map.
+This section should be around 500 words including:
+A persona you are targeting, identifying their goals and frustrations.
+Outline a scenario – a design map showing the touch-points where your persona interacts with the App.
+
+6 / 6
+
+
+ChatGPT
+User Experience (UX) Mapping for Bristol City Libraries Website:
+
+Persona:
+Name: Emma Walker
+Age: 28
+Occupation: Research Analyst
+Goal: Emma is an avid reader who frequently visits Bristol City Libraries for research and leisure reading. Her goal is to easily locate the libraries, find the books she needs, and have a smooth experience during her visits.
+Frustrations: Emma often struggles with finding updated information about library locations, opening hours, and available services. She wishes for a user-friendly platform that streamlines her library experience and minimizes the time spent searching for information.
+
+Scenario – Design Map:
+
+Homepage:
+
+Emma lands on the homepage, greeted with an intuitive interface.
+The homepage prominently displays a map of Bristol with markers indicating library locations.
+Search and Navigation:
+
+Emma utilizes a search bar to find the nearest library based on her current location or a specific address.
+Filters are available to narrow down the search based on opening hours, available services, or special events.
+Library Details:
+
+Emma clicks on a library marker to view detailed information.
+The library page includes the name, address, and contact number, along with a brief description of the library's offerings.
+A 360-degree virtual tour option allows Emma to explore the library's interior before her visit.
+Events and Services:
+
+Emma explores the events and services section to stay updated on upcoming book launches, workshops, and other activities.
+The website allows her to register for events or reserve a spot in a workshop directly from the platform.
+Account Management:
+
+Emma creates a personalized account to save her favorite libraries, track her borrowing history, and receive personalized recommendations.
+The account dashboard displays notifications about due dates, upcoming events, and recommended reads.
+Mobile Integration:
+
+Emma can access the website on her mobile device, enabling real-time navigation to the library using GPS.
+Push notifications remind her of reserved books ready for pickup or upcoming events matching her interests.
+Feedback and Community:
+
+The platform encourages Emma to leave reviews, ratings, or suggestions for improvement.
+A community forum allows Emma to connect with fellow readers, share book recommendations, and discuss library-related topics.
+Accessibility Features:
+
+The website is designed with accessibility in mind, providing options for font size adjustment, color contrast, and screen reader compatibility.
+Emma can easily find information about wheelchair accessibility, quiet zones, and other accommodations.
+Conclusion:
+This design map envisions a seamless user experience for Emma Walker, addressing her specific needs and frustrations. By integrating a user-friendly interface, comprehensive library information, and interactive features, the Bristol City Libraries website aims to enhance Emma's overall library experience and foster a sense of community among its users.
